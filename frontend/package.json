@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@intlify/unplugin-vue-i18n": "^0.5.0",
+    "@popperjs/core": "^2.11.5",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "vue": "^3.2.37",
+    "vue-i18n": "^9.2.1",
+    "vue-router": "^4.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.12"
+  }
+}
